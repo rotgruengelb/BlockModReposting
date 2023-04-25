@@ -590,5 +590,9 @@
 ||minecraftshader.com^$all
 ||mcpedl.com^$all
 ||instantmods.com^$all
+||gamerpotion.net^$all
+||minecraftwild.com^$all
+||minecraft.fr^$all
+||mcmodspot.com^$all
 
 ! Credit: Based on: https://stopmodreposts.org/
