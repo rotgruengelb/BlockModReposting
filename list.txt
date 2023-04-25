@@ -584,5 +584,7 @@
 ||zonacraft.net^$all
 ||майнкрафт18.рф^$all
 ||майнкрафтин.рф^$all
+||modyolo.com^$all
+||happymod.com^$all
 
 ! Credit: Based on: https://stopmodreposts.org/
