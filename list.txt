@@ -586,5 +586,6 @@
 ||майнкрафтин.рф^$all
 ||modyolo.com^$all
 ||happymod.com^$all
+||shadersmods.com^$all
 
 ! Credit: Based on: https://stopmodreposts.org/
