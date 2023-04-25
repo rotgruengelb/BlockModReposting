@@ -589,5 +589,6 @@
 ||shadersmods.com^$all
 ||minecraftshader.com^$all
 ||mcpedl.com^$all
+||instantmods.com^$all
 
 ! Credit: Based on: https://stopmodreposts.org/
