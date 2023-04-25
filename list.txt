@@ -587,5 +587,6 @@
 ||modyolo.com^$all
 ||happymod.com^$all
 ||shadersmods.com^$all
+||minecraftshader.com^$all
 
 ! Credit: Based on: https://stopmodreposts.org/
