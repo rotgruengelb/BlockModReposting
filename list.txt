@@ -1,5 +1,9 @@
 ! Title: BlockModReposting
-! Submitt Suggestions: blockmodreposting@rotgruengelb.net
+! Expires: 1 day
+! Homepage: https://github.com/rotgruengelb/BlockModReposting
+! GitHub issues: https://github.com/rotgruengelb/BlockModReposting/issues
+! Suggestions/E-Mail: blockmodreposting@rotgruengelb.net
+
 
 ! custom-rules
 ||lttlword.net^$all
@@ -595,4 +599,4 @@
 ||minecraft.fr^$all
 ||mcmodspot.com^$all
 
-! Credit: Based on: https://stopmodreposts.org/
+! Credit: Based on https://stopmodreposts.org/
